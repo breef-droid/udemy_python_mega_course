@@ -1,1 +1,3 @@
 # udemy_python_mega_course
+Become a Python programmer by learning how to build any Python program from scratch, GUIs, web apps, APIs, and more.
+The course is exclusively targeted at people who have not programmed before. Therefore, you will learn every programming concept in the context of real-life programming examples by building real-world programs. That way, you will learn the syntax of the language but also understand the logic behind the programming process so you can create your own Python programs. In addition, you will learn both how to write programs but also how to deploy them to live servers and create executable versions that run independently on any computer. The course covers everything from A to Z.
